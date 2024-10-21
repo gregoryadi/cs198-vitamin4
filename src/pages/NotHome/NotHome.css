@@ -1,0 +1,15 @@
+.nothome-container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    text-align: center;
+  }
+  
+  .counter-container {
+    margin-top: 20px;
+  }
+  
+  .counter-container button {
+    margin: 5px; 
+  }
+  
